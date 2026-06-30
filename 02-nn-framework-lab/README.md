@@ -5,6 +5,7 @@
 ## Видеопрезентация:
 <video src="./assets/aura_nn_playground_preview.mp4" controls width="100%"></video>
 
+Проект выполнялся в команде из трех человек.  
 **Моя роль:** разработчик функций активации, loss-функций, Web Playground
 
 ## Стек:
